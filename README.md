@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory: Configuring Accounts and Resetting Passwords 🪟</h1>
-xxxxxx 
+In the last section of our Microsoft Active Directory lab, we run through the process of using the Group Policy Management Console to configure Account Lockout and Reset Policies, testing our Policy Updates by actively breaching the Account Lock Policies and then Resetting the Account to be able to log back in. We also go through the process of disabling an account and attempting to login and lastly, we review the Security Logs within Microsoft Event Viewer for our Client Machine and see the events that outline the failed login attempts and account disabled login attempts.
 
 (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
